@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{title}}</title>
+  {{{style}}}
+  <script src="remark.min.js"></script>
+  <script>
+    function create() {
+      var slideshow = remark.create({
+        {{{source}}},
+        ratio: '16:9',
+        highlightLines: true,
+        countIncrementalSlides: false,
+        highlightStyle: 'github'
+      });
+      return slideshow;
+    }
+  </script>
+</head>
+<body onload="slideshow = create()">
+</body>
+</html>

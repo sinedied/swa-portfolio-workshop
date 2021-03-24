@@ -1,0 +1,14 @@
+{
+  "name": "swa-portfolio-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yohan Lsaorsa (@sinedied)",
+  "dependencies": {
+    "backslide": "^3.0.0"
+  }
+}
