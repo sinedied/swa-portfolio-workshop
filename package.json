@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "build": "bs export --web"
+    "build": "bs export workshop.md --web"
   },
   "keywords": [],
   "author": "Yohan Lsaorsa (@sinedied)",
