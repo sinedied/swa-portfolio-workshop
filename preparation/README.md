@@ -39,10 +39,7 @@ Pour le savoir, rendez-vous sur la [page dédiée][azure-student], et cliquez su
 On vous demandera alors de confirmer vos informations personnelles, ainsi que votre numéro de téléphone afin de recevoir
 un SMS de validation.
 
-::: warning Attention
-Si, à un moment dans le parcours d'inscription, vos informations de carte bleue vous sont demandées, 
-c'est probablement qu'il y a eu une erreur dans le parcours.
-:::
+!> Si, à un moment dans le parcours d'inscription, vos informations de carte bleue vous sont demandées, c'est probablement qu'il y a eu une erreur dans le parcours.
 
 Il se peut que votre portail étudiant vous amène directement sur le portail Azure, sans toutefois avoir de souscription
 Azure. Dans ce cas, recherchez "Education" dans la barre de recherche en haut à droite. Sur cette page éducation,
@@ -63,10 +60,7 @@ vous pouvez l'utiliser afin de créer un abonnement. Avant de démarrer, assurez
 - que ce compte n'a jamais été utilisé pour un autre abonnement Azure. Si vous avez déjà eu un compte d'essai ou payant
 avec la même adresse, il vous sera alors impossible d'utiliser l'Azure Pass.
 
-::: warning Attention
-Si, à un moment dans le parcours d'inscription, vos informations de carte bleue vous sont demandées, 
-c'est probablement qu'il y a eu une erreur dans le parcours. Demandez de l'aide à l'employé Microsoft.
-:::
+!> Si, à un moment dans le parcours d'inscription, vos informations de carte bleue vous sont demandées, c'est probablement qu'il y a eu une erreur dans le parcours. Demandez de l'aide à l'employé Microsoft.
 
 1. Rendez-vous sur [microsoftazurepass.com][azurepass] et cliquez sur **Start**,
 ![Démarrer l'utilisation du pass](./img/redeempass-1.jpg)

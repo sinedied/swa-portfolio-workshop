@@ -52,6 +52,7 @@ class: left, no-bar, primary, no-counter
 | Azure account | https://aka.ms/student/azure |
 | A code editor | https://aka.ms/get-vscode |
 | A browser | https://www.microsoft.com/edge |
+| Gastby CLI | Run `npm install -g gatsby-cli` in a terminal
 
 ---
 
@@ -93,6 +94,7 @@ Open a terminal and type:
 ```sh
 npm --version
 git --version
+gatsby --version
 ```
 
 ---
