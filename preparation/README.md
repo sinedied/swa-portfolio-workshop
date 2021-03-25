@@ -19,20 +19,20 @@ Les ressources utilisées le seront dans les limites des tiers gratuits, il se p
 Afin de vous aider à créer votre compte Azure, choisissez l'option qui 
 correspond le mieux à votre situation :
 
-- [J'ai déjà un abonnement](#j-ai-deja-un-abonnement-azure)
-- [Je suis étudiant](#je-suis-etudiant)
-- [Je suis un abonné MSDN/Visual Studio](#je-suis-un-abonne-visual-studio-msdn)
-- [J'ai un Azure Pass](#un-employe-microsoft-m-a-communique-un-azure-pass) (Si vous n'avez pas de compte étudiant, un Azure Pass vous sera donné au début du workshop)
-- [Je n'ai rien de tout cela](#je-n-ai-rien-de-tout-cela)
+- [J'ai déjà un abonnement](#already-sub)
+- [Je suis étudiant](#student)
+- [Je suis un abonné MSDN/Visual Studio](#vss)
+- [J'ai un Azure Pass](#azure-pass) (Si vous n'avez pas de compte étudiant, un Azure Pass vous sera donné au début du workshop)
+- [Je n'ai rien de tout cela](#nothing)
 
-### J'ai déjà un abonnement Azure
+### J'ai déjà un abonnement Azure :id=already-sub
 
 C'est une excellente nouvelle ! Il faudra toutefois veiller à vérifier que vous avez les autorisations nécessaires
 afin de pouvoir créer des ressources sur cet abonnement. 
 
-Vous pouvez maintenant [vérifier si tout est prêt pour la prochaine étape](#✅-verifions-si-votre-compte-azure-a-bien-ete-cree).
+Vous pouvez maintenant [vérifier si tout est prêt pour la prochaine étape](#self-check).
 
-### Je suis étudiant
+### Je suis étudiant :id=student
 
 En tant qu'étudiant, vous avez probablement accès à l'offre **Azure For Students**.
 Pour le savoir, rendez-vous sur la [page dédiée][azure-student], et cliquez sur **Activate Now**.
@@ -49,9 +49,9 @@ cliquez sur le bouton **Claim your Azure credit now** afin de démarrer le proce
 Dans le cas où votre établissement d'enseignement ne serait pas reconnu, vous pouvez toujours 
 [créer un abonnement d'essai](#nothing).
 
-Vous pouvez maintenant [vérifier si tout est prêt pour la prochaine étape](#✅-verifions-si-votre-compte-azure-a-bien-ete-cree).
+Vous pouvez maintenant [vérifier si tout est prêt pour la prochaine étape](#self-check).
 
-### Un employé Microsoft m'a communiqué un _Azure Pass_
+### Un employé Microsoft m'a communiqué un _Azure Pass_ :id=azure-pass
 
 Vous êtes sur un événement et un employé vous a communiqué un code _Azure Pass_? Dans ce cas
 vous pouvez l'utiliser afin de créer un abonnement. Avant de démarrer, assurez-vous : 
@@ -84,24 +84,24 @@ visite et de vous familiariser avec l'interface du portail Azure.
 
 ![Accueil du portail Azure](./img/redeempass-7.jpg)
 
-Vous pouvez maintenant [vérifier si tout est prêt pour la prochaine étape](#✅-verifions-si-votre-compte-azure-a-bien-ete-cree).
+Vous pouvez maintenant [vérifier si tout est prêt pour la prochaine étape](#self-check).
 
-### Je suis un abonné Visual Studio / MSDN
+### Je suis un abonné Visual Studio / MSDN :id=vss
 
 Vous avez accès à un crédit mensuel gratuit dans le cadre de votre abonnement. Si vous ne l'avez pas déjà activé,
 il suffit d'aller sur la [page dédiée](https://azure.microsoft.com/pricing/member-offers/credit-for-visual-studio-subscribers/?WT.mc_id=javascript-19816-yolasors)
 puis de cliquer sur le bouton **activer**.
 
-Vous pouvez maintenant [vérifier si tout est prêt pour la prochaine étape](#✅-verifions-si-votre-compte-azure-a-bien-ete-cree).
+Vous pouvez maintenant [vérifier si tout est prêt pour la prochaine étape](#self-check).
 
-### Je n'ai rien de tout cela
+### Je n'ai rien de tout cela :id=nothing
 
 Vous pouvez toujours créer un [abonnement d'essai][azure-free-trial]. Les informations de carte bleue vous seront
 demandées afin de s'assurer que vous êtes une personne physique.
 
-Vous pouvez maintenant [vérifier si tout est prêt pour la prochaine étape](#✅-verifions-si-votre-compte-azure-a-bien-ete-cree).
+Vous pouvez maintenant [vérifier si tout est prêt pour la prochaine étape](#self-check).
 
-### ✅ Vérifions si votre compte Azure a bien été créé
+### ✅ Vérifions si votre compte Azure a bien été créé  :id=self-check
 
 Avant de passer à l'étape suivante, nous allons nous assurer que votre souscription
 a bien été créée. Pour cela, quelques étapes suffisent : 
