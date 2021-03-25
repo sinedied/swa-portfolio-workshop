@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "build": "bs export workshop.md --web"
+    "build": "bs export workshop.md --web && cp -Rf preparation dist/"
   },
   "keywords": [],
   "author": "Yohan Lsaorsa (@sinedied)",
