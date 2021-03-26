@@ -170,6 +170,50 @@ class: impact, left
 
 ---
 
+# What's the cloud? ☁️
+
+--
+.quote[
+> It's someone else's computer. 🙂
+]
+
+--
+
+----
+
+.table.row.center.middle[
+.col-4.no-margin[
+.w-60.responsive[![](./images/iaas.png)]
+]
+.col-4.no-margin[
+.w-60.responsive[![](./images/paas.png)]
+]
+.col-4.no-margin[
+.w-50.responsive[![](./images/saas.png)]
+]
+]
+.table.row.center.top[
+.col-4[
+**IaaS**<br>
+.small[**Infrastructure as a Service**]<br>
+.small.em-text[Storage, computing, networking]
+]
+.col-4[
+**PaaS**<br>
+.small[**Platform as a Service**]<br>
+.small.em-text[Focus on your code]
+]
+.col-4[
+**SaaS**<br>
+.small[**Software as a Service**]<br>
+.small.em-text[Ready to use software]
+]
+]
+
+
+
+---
+
 # Azure Static Web Apps .float-right.small[[aka.ms/docs/swa](https://aka.ms/docs/swa)]
 
 ## What's SWA?
