@@ -402,7 +402,7 @@ class: clist, no-bullet, middle, center
 - 🎨 Post URLs and screenshots in the chat
 - 📢 Tweet it and mention us!<br><br>
   `@sinedied @olivierleplus @maudstweets`<br>
-  `@msdevs_fr #MSDevRoadShow`
+  `@NathanPire @msdevs_fr #MSDevRoadShow`
 ]
 
 ---
