@@ -42,7 +42,7 @@ class: left, no-bar, primary, no-counter
 
 ---
 
-# Prerequisites
+# Prerequisites .small.float-right[[aka.ms/swa-portfolio-prep](https://aka.ms/swa-portfolio-prep)]
 
 | | |
 |---------------|-----------------|
@@ -123,7 +123,7 @@ class: impact, left
 
 ```sh
 # Install Gatsby CLI
-npm install -g gatsby-cli
+# npm install -g gatsby-cli
 
 # See available commands
 gatsby --help
@@ -146,21 +146,10 @@ TODO: fork template, remove cypress/husky + eslint?
 # Push to GitHub
 
 1. Create a new repo with the name `my-portfolio`: https://github.com/new
+2. Push your code to the repo, by copy/pasting the commands shown on GitHub:
 
-  .do[
-  > **Tip**: With GitHub CLI (https://cli.github.com) you can do it directly from command line: `gh repo create <name> --public`
-  ]
-
-2. Push your code to the repo:
-  ```sh
-  git remote add origin git@github.com:<USER>/<REPO>.git
-  git branch -M main
-  git push -u origin main
-  ```
-
-  .do[
-    > **Tip**: you can copy/paste the commands for your own repo from GitHub directly.
-  ]
+  ![](./images/gh-git.png)
+3. After the push is finished, check that your code is visible on GitHub
 
 ---
 
@@ -446,7 +435,7 @@ class: clist, no-bullet, middle, center
 - 🎨 Post URLs and screenshots in the chat
 - 📢 Tweet it and mention us!<br><br>
   `@sinedied @olivierleplus @maudstweets`<br>
-  `@NathanPire @msdevs_fr #MSDevRoadShow`
+  `@msdevs_fr #MSDevRoadShow`
 ]
 
 ---

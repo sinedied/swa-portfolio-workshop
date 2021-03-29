@@ -1,6 +1,8 @@
 PWA WORKSHOP
 ============
 
+Sandbox backup in case of no Azure account: https://aka.ms/aka/swa-sandbox
+
 # Intro: Objectives
   - Bootstrap a Gatsby app from a template
   - Create a GitHub repository to push your code
