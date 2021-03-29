@@ -131,9 +131,9 @@ gatsby --help
 # Create new app
 # (package install might take a while...)
 gatsby new my-portfolio https://github.com/sinedied/gatsby-portfolio
-cd my-portfolio
 
 # Start development server
+cd my-portfolio
 gatsby develop
 ```
 
