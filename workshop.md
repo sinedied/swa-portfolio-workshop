@@ -46,7 +46,7 @@ class: left, no-bar, primary, no-counter
 
 | | |
 |---------------|-----------------|
-| Node.js v12+ | https://nodejs.org |
+| Node.js v12.13+ | https://nodejs.org |
 | Git | https://git-scm.com |
 | GitHub account | https://github.com/join |
 | Azure account | https://aka.ms/student/azure |

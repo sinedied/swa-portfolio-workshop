@@ -2,7 +2,7 @@
 
 Afin de réaliser ce workshop, vous aurez besoin de: 
 
-- **Node.js**: https://nodejs.org (v12 minimum)
+- **Node.js**: https://nodejs.org (v12.13 minimum)
 - **Git**: https://git-scm.com
 - **Un compte GitHub**: https://github.com/join
 - **Un éditeur de code**, par exemple: https://aka.ms/get-vscode
